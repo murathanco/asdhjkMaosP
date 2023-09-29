@@ -1,18 +1,34 @@
 [
     {
         "name": "915 Dupont",
-        "type": "Cafe",
+        "type": "Bar",
         "latitude": 43.670078,
         "longitude": -79.429774,
         "imageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/ACLfc__cNA4EMhuS7wRyOQ/o.jpg",
-        "directionsURL": "https://guides.apple.com/?ug=Cg9Cb2FyZCAtIFRvcm9udG8SDgiuTRDXjavzoPWsy4sB"
+        "directionsURL": "https://maps.apple.com/?address=915%20Dupont%20St,%20Toronto%20ON%20M6H%201Z1,%20Canada&auid=10058424360746272471&ll=43.670078,-79.429774&lsp=9902&q=915%20Dupont"
     },
     {
-        "name": "The Bar",
+        "name": "Carbonic Coffee",
+        "type": "Cafe",
+        "latitude": 43.655900,
+        "longitude":  -79.393530,
+        "imageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/ACLfc__cNA4EMhuS7wRyOQ/o.jpg",
+        "directionsURL": "https://maps.apple.com/?address=37%20Baldwin%20St,%20Toronto%20ON%20M5T%201L1,%20Canada&auid=12499899580207210755&ll=43.655841,-79.393532&lsp=9902&q=Carbonic%20Coffee"
+    },
+    {
+        "name": "135 Ossington",
+        "type": "Cafe",
+        "latitude": 43.647262, 
+        "longitude": -79.419630,
+        "imageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/ACLfc__cNA4EMhuS7wRyOQ/o.jpg",
+        "directionsURL": "https://maps.apple.com/?address=135%20Ossington,%20Toronto%20ON%20M6J%202Z6,%20Canada&auid=1825308313774001797&ll=43.647262,-79.419630&lsp=9902&q=135%20Ossington"
+    },
+    {
+        "name": "Bar Isabel",
         "type": "Bar",
-        "latitude": 37.7746,
-        "longitude": -122.4182,
-        "imageURL": "https://example.com/bar.jpg",
-        "directionsURL": "https://maps.example.com/the-bar-directions"
-    }
+        "latitude": 43.654692, 
+        "longitude": -79.420834,
+        "imageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/ACLfc__cNA4EMhuS7wRyOQ/o.jpg",
+        "directionsURL": "https://maps.apple.com/?address=797%20College%20St,%20Toronto%20ON%20M6G%201C7,%20Canada&auid=8652914140883945312&ll=43.654617,-79.420847&lsp=9902&q=Bar%20Isabel"
+    },
 ]
